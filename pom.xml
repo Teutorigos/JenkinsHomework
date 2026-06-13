@@ -6,7 +6,7 @@
     <groupId>ro.tudor.jenkins</groupId>
     <artifactId>jenkins-homework</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>JenkinsHomework</name>
 </project>
